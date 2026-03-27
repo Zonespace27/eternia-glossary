@@ -6,7 +6,7 @@
   },
   {
     "word": "Experience",
-    "alternateWords": ["EXP", "XP"],
+    "alternateWords": "EXP", "XP"],
     "definition": "Poas gained through combat and completing tasks that contribute toward leveling up."
   }
 ]
