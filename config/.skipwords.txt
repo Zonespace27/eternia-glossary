@@ -1,2 +1,4 @@
 XP
 Mana
+spellcasters
+alternateWords
